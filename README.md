@@ -19,3 +19,5 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 
 #### Example output:
 * { "unix": 1450137600, "utc":"Sat, 17 Jan 1970 18:48:57 GMT" }
+<br><br>
+#### Created by Robert Müller for FreeCodeCamp:
